@@ -1,0 +1,8 @@
+name,type,amount,start_month,frequency,end_month
+Product sales,inflow,15000,1,monthly,
+Consulting,inflow,5000,1,quarterly,
+Payroll,outflow,14000,1,monthly,
+Rent,outflow,2500,1,monthly,
+Software,outflow,600,1,monthly,
+Marketing push,outflow,3000,2,monthly,6
+Tax bill,outflow,8000,4,once,
