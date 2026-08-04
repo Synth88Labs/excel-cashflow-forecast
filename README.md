@@ -11,6 +11,9 @@ month your cash would run out.
 Built for the question every founder and small-business owner loses sleep over:
 *"Will I make payroll — and how many months do I have?"*
 
+> 📖 **New here?** Read the full step-by-step guide:
+> [Cash-Flow Forecasting in Excel: Know Your Runway](https://excelguru.io/tutorials/cash-flow-forecasting-in-excel/) on ExcelGuru.io.
+
 ## What it does
 
 - Projects **inflows, outflows, net, and running balance** for each month
